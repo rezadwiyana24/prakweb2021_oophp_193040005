@@ -1,7 +1,7 @@
-- <?php 
-+ <?php
+<?php 
+<?php
 
-// define('NAMA', 'Sandhika');
+ // define('NAMA', 'Sandhika');
 
 @@ -24,10 +24,11 @@
 
